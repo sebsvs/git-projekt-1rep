@@ -1,7 +1,14 @@
-body { 
+body.red { 
     background-color: #ffebee; 
     color: #c62828; 
+}
+body.blue { 
+    background-color: #e3f2fd; 
+    color: #1565c0; 
 } 
-h1 { 
+h1.red { 
     color: #d32f2f; 
+}
+h1.blue { 
+    color: #1976d2; 
 }
