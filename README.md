@@ -30,6 +30,7 @@ Pełna dokumentacja dostępna jest [tutaj](https://example.com).
 ## Licencja 
 Ten projekt jest licencjonowany pod [licencją MIT]( 
 https://pl.wikipedia.org/wiki/Licencja_MIT).
+Treść licencji widoczna jest tutaj: [Licencja MIT](LICENSE)
 
 ## Autorzy 
 - Sebastian Szewczyk – [GitHub](https://github.com/sebsvs)
