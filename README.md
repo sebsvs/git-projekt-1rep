@@ -2,8 +2,6 @@
 
 ## Spis treści 
 - [Opis](#opis-projektu-i-jego-funkcjonalności)
-- [Funkcjonalności](#funkcjonalności)
-- [Instalacja](#instalacja) 
 - [Użycie](#użycie) 
 - [Dokumentacja](#dokumentacja) 
 - [Licencja](#licencja)
@@ -13,13 +11,7 @@
 ## Opis projektu i jego funkcjonalności. 
 ![Przykładowy screenshot](jestgit.jpg)
 
-## Funkcjonalności 
-- Funkcjonalność 1 
-- Funkcjonalność 2 
-- Funkcjonalność 3 
-
-## Instalacja
-
+W repozytorium znajduje się aplikacja python obsługująca kilkustopniową rejestrację użytkownika na profilu uczelni. Rejestrujący musi podać prawidłowe dane. Po udanym procesie przydzielany jest losowy numer albumu.
 
 ## Użycie
 
