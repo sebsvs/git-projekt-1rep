@@ -128,7 +128,7 @@ def rejestracja():
 
     print("Twój numer albumu: "+str(random.randrange(album_poczatek,album_koniec)))
 
-rejestracja()
+#rejestracja()
 
 
 
