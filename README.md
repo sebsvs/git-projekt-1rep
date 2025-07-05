@@ -11,7 +11,7 @@
 - [Podziękowania](#podziękowania)
 
 ## Opis projektu i jego funkcjonalności. 
-![Przykładowy screenshot](C:/Users/sebas/git-projekt/jestgit.jpg)
+![Przykładowy screenshot](jestgit.jpg)
 
 ## Funkcjonalności 
 - Funkcjonalność 1 
